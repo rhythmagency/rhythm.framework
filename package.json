@@ -1,0 +1,30 @@
+{
+	"name": "rhythm.framework",
+	"version": "0.0.1",
+	"author": "Rhythm Interactive <admin@rhythmagency.com>",
+	"description": "a simple zero-configuration command-line http server",
+	"contributors": [
+		{
+			"name": "Michael Lawrence",
+			"email": "michael.lawrence@rhythmagency.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rhythmagency/rhythm.framework.git"
+	},
+	"keywords": [
+		"jquery",
+		"underscore",
+		"framework",
+		"rhythm"
+	],
+	"dependencies" : {
+		"jquery"   :  "*",
+		"underscore" :  "*"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.6"
+	}
+}
