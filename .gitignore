@@ -1,0 +1,48 @@
+# IDE Specific
+############################
+.idea
+*.iml
+.project
+.buildpath
+/.settings
+*.sublime-project
+*.sublime-workspace
+*.sublime-projectcompletions
+*.user
+*.suo
+*.vspscc
+*.vscc
+_vti_cnf
+_notes
+
+# General Cache
+############################
+.sass-cache
+
+# OS Generated
+############################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+
+# Node.js
+############################
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
