@@ -1,8 +1,8 @@
 {
 	"name": "rhythm.framework",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Rhythm Interactive <admin@rhythmagency.com>",
-	"description": "a simple zero-configuration command-line http server",
+	"description": "Collection of libraries and modules commonly used at Rhythm Interactive.",
 	"contributors": [
 		{
 			"name": "Michael Lawrence",
