@@ -20,7 +20,6 @@
 		"rhythm"
 	],
 	"dependencies" : {
-		"jquery"   :  "*",
 		"underscore" :  "*"
 	},
 	"license": "MIT",
