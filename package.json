@@ -1,6 +1,6 @@
 {
 	"name": "rhythm.framework",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"author": "Rhythm Interactive <admin@rhythmagency.com>",
 	"description": "Collection of libraries and modules commonly used at Rhythm Interactive.",
 	"contributors": [
