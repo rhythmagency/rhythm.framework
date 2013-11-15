@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>jquery.picturePolyfill test</title>
+		<script src="js/app.min.js"></script>
+	</head>
+	<body>
+		<picture alt="test image">
+			<source src="http://fpoimg.com/800x400?text=high" media="min-width:800px" />
+			<source src="http://fpoimg.com/480x240?text=mid" media="min-width:480px" />
+			<source src="http://fpoimg.com/240x120?text=low" />
+			<img src="http://fpoimg.com/480x240?text=fallback" alt="test image" />
+		</picture>
+	</body>
+</html>

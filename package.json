@@ -1,6 +1,6 @@
 {
 	"name": "rhythm.framework",
-	"version": "0.0.10",
+	"version": "0.0.11",
 	"author": "Rhythm Interactive <admin@rhythmagency.com>",
 	"description": "Collection of libraries and modules commonly used at Rhythm Interactive.",
 	"contributors": [
@@ -21,7 +21,9 @@
 	],
 	"dependencies" : {
 		"underscore" :  "*",
-		"underscore.string" : "*"
+		"underscore.string" : "*",
+		"browsernizr": "*",
+		"jquery-browser": "*"
 	},
 	"license": "MIT",
 	"engines": {
