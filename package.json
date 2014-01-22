@@ -1,6 +1,6 @@
 {
 	"name": "rhythm.framework",
-	"version": "0.0.17",
+	"version": "0.0.18",
 	"author": "Rhythm Interactive <admin@rhythmagency.com>",
 	"description": "Collection of libraries and modules commonly used at Rhythm Interactive.",
 	"contributors": [
@@ -20,7 +20,7 @@
 		"rhythm"
 	],
 	"dependencies" : {
-		"underscore" :  "*",
+		"lodash" :  "*",
 		"underscore.string" : "*",
 		"browsernizr": "*",
 		"jquery-browser": "*"
