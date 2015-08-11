@@ -23,7 +23,7 @@
 		"lodash" :  "*",
 		"underscore.string" : "*",
 		"browsernizr": "*",
-		"jquery-browser": "*"
+		"jquery": "*"
 	},
 	"license": "MIT",
 	"engines": {
